@@ -1,0 +1,26 @@
+body{
+    background-color: #ff4;
+    font-family: Arial;
+}
+
+#Titulo{
+    text-align: center;
+    color:red
+}
+
+p{
+    color: brown;
+    font-size: 20px;
+}
+
+.destaque{
+    background-color: gray;
+    padding: 10px;
+}
+
+.box{
+    border: 2px dashed gray;
+    background-color: aliceblue;
+    padding: 10px;
+    margin-top: 10px ;
+}

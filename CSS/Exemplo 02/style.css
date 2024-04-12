@@ -1,0 +1,35 @@
+body{
+    font-family: Arial;
+    background-color: #F4F4F4;
+
+}
+
+.container{
+    border: 5px solid brown;
+    padding: 20px;
+    background-color: #ddd;
+    height: 200px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Item{
+    border: 3px ridge black;
+    background-color: #34bbbb;
+    color: white;
+    padding: 10px;
+    font-size: 18 px;
+    text-align: center;
+    width: 100px;
+    border-radius: 45px;
+}
+
+.Item:hover{
+    background-color: black;
+    border-radius: 50%;
+    transition: background-color 1s ease;
+    transition: border-radius 1s ease;
+}
+
