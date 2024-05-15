@@ -1,0 +1,122 @@
+.one{
+    margin-left: 100px;
+    margin-top: 25px ;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 1150px;
+    height: 150px;
+    position:absolute;
+    display: inline-block;
+}
+
+.two{
+    margin-left: 150px;
+    margin-top: 40px ;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 220px;
+    height: 120px;
+    position:absolute;
+    display: inline-block;
+}
+
+.three{
+    margin-left: 420px;
+    margin-top: 40px ;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 230px;
+    height: 120px;
+    position:absolute;
+    display: inline-block;
+
+}
+
+.four{
+    margin-left: 700px;
+    margin-top: 40px ;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 230px;
+    height: 120px;
+    position:absolute;
+    display: inline-block;
+}
+
+.five{
+    margin-left: 970px;
+    margin-top: 40px ;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 230px;
+    height: 120px;
+    position:absolute;
+    display: inline-block; 
+}
+
+
+.six{
+    margin-left: 100px;
+    margin-top: 200px ;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 550px;
+    height: 370px;
+    position:absolute;
+    display: inline-block; 
+}
+
+.seven{
+    margin-left: 130px;
+    margin-top: 220px ;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 490px;
+    height: 150px;
+    position:absolute;
+    display: inline-block; 
+}
+
+.eigth{
+    margin-left: 130px;
+    margin-top: 400px ;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 490px;
+    height: 150px;
+    position:absolute;
+    display: inline-block;  
+}
+
+.nine{
+    margin-left: 700px;
+    margin-top: 200px ;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 550px;
+    height: 370px;
+    position:absolute;
+    display: inline-block; 
+}
+
+.ten{
+    margin-left: 730px;
+    margin-top: 220px ;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 490px;
+    height: 150px;
+    position:absolute;
+    display: inline-block; 
+}
+
+.eleven{
+    margin-left: 730px;
+    margin-top: 400px ;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 490px;
+    height: 150px;
+    position:absolute;
+    display: inline-block; 
+}
